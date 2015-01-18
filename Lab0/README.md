@@ -1,7 +1,7 @@
 Basic Network Commands for Unix
 =========================================
 
-1. `ifconfig`
+1. `ifconfig` 
 2. `iwconfig` - gives details pertaining to wireless network interface.
 3. `iwlist` - gives details that are not shown in iwconfig, such as what all channels are being used, the frequency, transmission power, etc.
 4. `arp` - maps mac address to IP address.
@@ -37,7 +37,6 @@ Basic Network Commands for Unix
 
 - Adopt network?
 - in `iwconfig` command - What is `RTS thr`
-- how to notify on which channel currently we are? (something related to iwlist)
 - how does arp help in gateway and transmission?
 - What do you mean by open/closed ports?
 
