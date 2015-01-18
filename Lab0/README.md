@@ -49,4 +49,5 @@ This is in no way exhaustive information source, nor might it be 100% correct. Y
 ### Author and Date
 
 Bhavul Gauri
-Saturday, Jans 17 2015
+
+Saturday, January 17 2015
